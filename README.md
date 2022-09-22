@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 I like training all kinds of neural networks. <br>
 
 Some things I'm working on:
-* [Frequency Neural Networks](https://github.com/kzajac97/frequency-neural-networks) - scientific work on developing neural operators for nonlinear dynamical system identification using Fourier transform
-* [Master Thesis](https://github.com/kzajac97/master-thesis)  - My master thesis
+* [Frequency Neural Networks]() - scientific work on developing neural operators for nonlinear dynamical system identification using Fourier transform (soon made public)
 
 Some things I've worked in the past:
 * [Hardfacing Neural Modelling](https://github.com/kzajac97/hardfacing-neural-modelling) - using shallow neural networks and robust learning approach to constructing models of hardfacing process using experimental data
+* [Visual Material Recognition](https://github.com/kzajac97/visual-material-recognition) - using image of steel microstructure to estimate its hardness using fractal dimensions 
 * [Some Experiments](https://github.com/kzajac97/tensorflow-notebooks) - Various time series and generative models
 
 Some university stuff (repo names are often names of the courses):
