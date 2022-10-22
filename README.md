@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I like training all kinds of neural networks. <br>
 
 Some things I'm working on:
-* [Frequency Neural Networks]() - scientific work on developing neural operators for nonlinear dynamical system identification using Fourier transform (soon made public)
+* [Frequency Neural Networks](https://github.com/kzajac97/dynamical-neural-networks) - scientific work on developing neural operators for nonlinear dynamical system identification using Fourier transform
 
 Some things I've worked in the past:
 * [Hardfacing Neural Modelling](https://github.com/kzajac97/hardfacing-neural-modelling) - using shallow neural networks and robust learning approach to constructing models of hardfacing process using experimental data
