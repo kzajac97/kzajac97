@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 I like training all kinds of neural networks. <br>
 
 Some things I'm working on:
-* [Dynamical Neural Networks](https://github.com/kzajac97/dynamical-neural-networks) - scientific work on developing neural operators for nonlinear dynamical system identification using Fourier transform
-
-Univerity stuff, written for studens:
-* [Machine Vision Classes](https://github.com/kzajac97/machine-vision) - course about machine vision, including processing, compression and neural networks 
+* [Dynamical Neural Networks](https://github.com/kzajac97/dynamical-neural-networks) - developing new neural network architectures for nonlinear system identification
+* [Reconstructing Transformers](https://github.com/kzajac97/reconstructing-transformer) - recreating transformer architecture on minimal examples
+* [Machine Vision Classes](https://github.com/kzajac97/machine-vision) - university course about machine vision, including processing, compression and neural networks 
 
 Some things I've worked in the past:
 * [Frequency Supported Neural Networks](https://github.com/kzajac97/frequency-supported-neural-networks) - developing neural networks with Fourier transform for nonlinear system identification
