@@ -15,24 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like training all kinds of neural networks. <br>
+I like training all kinds of neural networks. Currently I'm working at [*PeakData AG*](https://www.peakdata.com/) with NLP and data processing and teaching and researchig at *Wrocław University of Science and Technology* as a part of [`cyber-physical-systems-group`](https://github.com/cyber-physical-systems-group), where I work on teaching neural networks nonlinear dynamics.<br>
 
-Some things I'm working on:
-* [Dynamical Neural Networks](https://github.com/kzajac97/dynamical-neural-networks) - developing new neural network architectures for nonlinear system identification
-* [Reconstructing Transformers](https://github.com/kzajac97/reconstructing-transformer) - recreating transformer architecture on minimal examples
-* [Machine Vision Classes](https://github.com/kzajac97/machine-vision) - university course about machine vision, including processing, compression and neural networks 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-Some things I've worked in the past:
-* [Frequency Supported Neural Networks](https://github.com/kzajac97/frequency-supported-neural-networks) - developing neural networks with Fourier transform for nonlinear system identification
-* [Hardfacing Neural Modelling](https://github.com/kzajac97/hardfacing-neural-modelling) - using shallow neural networks and robust learning approach to constructing models of hardfacing process using experimental data
-* [Visual Material Recognition](https://github.com/kzajac97/visual-material-recognition) - using image of steel microstructure to estimate its hardness using fractal dimensions 
-* [Some Experiments](https://github.com/kzajac97/tensorflow-notebooks) - various time series and generative models
+Some things I'm currently working on:
+* Libary for developing neural networks for nonlinear dynamics called [`pydentification`](https://github.com/cyber-physical-systems-group/pydentification)
+* Recreating transformer architecture on minimal examples for fun @ [`reconstructing-transformer`](https://github.com/kzajac97/reconstructing-transformer)
+* Teaching university course about [`machine-vision`](https://github.com/kzajac97/machine-vision), including processing, compression and neural networks
+* Using AWS for machine learning and data processing with [`sagemaker`](https://github.com/kzajac97/aws-sagemaker-snippets) and [`aws lambda`](https://github.com/kzajac97/aws-lambda-snippets) 
 
-Some university stuff written as student:
-* [Statistical Estimators](https://github.com/kzajac97/MID) - various estimators and basic dynamical system identification
-* [Neural Styler Research](https://github.com/kzajac97/AWD) - neural style transfer and image generator
-* [Neural Styler](https://github.com/kzajac97/neural-styler) - style transfer in a mobile app
-* [FlightDB](https://github.com/kzajac97/flight_db) - distributed database with web app
-* [SPEA](https://github.com/kzajac97/SPEA) - multiobjective evolutional optimization algorithm based on Pareto principle
-* [Discrete Control Theory](https://github.com/kzajac97/SPD) - discreate optimization algorithms in C++
-* [EMedia](https://github.com/kzajac97/e-media) - custom RSA implementation for audio files in C++
+Some things I've worked in the past, which are left here:
+* Developing neural networks with Fourier transform for nonlinear system identification, called [`frequency-supported-neural-network`](https://github.com/kzajac97/frequency-supported-neural-networks)
+* Using shallow neural networks with robust learning (changing the loss function) to constructing models of hardfacing process using experimental data @ [`hardfacing-neural-modelling`](https://github.com/kzajac97/hardfacing-neural-modelling))
+* Using images of metal microstructure to estimate its hardness using fractal dimension computed from the image, [`visual-material-recognition`](https://github.com/kzajac97/visual-material-recognition)
+* Numerous time-series experiments with neural networks, including [`tensorflow-notebooks`](https://github.com/kzajac97/tensorflow-notebooks) and [`university courses`](https://github.com/kzajac97/MID)
+* Some [`evolutionary-optimization`](https://github.com/kzajac97/evolutionary-algorithms) and [`spea`](https://github.com/kzajac97/SPEA)
+* Some generative models and [`neural styling`](https://github.com/kzajac97/AWD) (with minal [mobile-app](`https://github.com/kzajac97/neural-styler`))
