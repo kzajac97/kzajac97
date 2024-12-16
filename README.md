@@ -27,7 +27,6 @@ Some things I'm currently working on:
 * Libary for developing neural networks for nonlinear dynamics called [`pydentification`](https://github.com/cyber-physical-systems-group/pydentification)
 * Recreating transformer architecture on minimal examples for fun @ [`reconstructing-transformer`](https://github.com/kzajac97/reconstructing-transformer)
 * Teaching university course about [`machine-vision`](https://github.com/kzajac97/machine-vision), including processing, compression and neural networks
-* Using AWS for machine learning and data processing with [`sagemaker`](https://github.com/kzajac97/aws-sagemaker-snippets) and [`aws lambda`](https://github.com/kzajac97/aws-lambda-snippets) 
 
 Some things I've worked in the past, which are left here:
 * Developing neural networks with Fourier transform for nonlinear system identification, called [`frequency-supported-neural-network`](https://github.com/kzajac97/frequency-supported-neural-networks)
