@@ -8,6 +8,13 @@ I currently work at [Opera Software](https://www.opera.com/) as AI Engineer, wor
 project and at Wrocław University of Science and Technology as a part of cyber-physical-systems-group, where I work on
 research about modelling dynamical systems with neural networks and teaching machine learning courses.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+
 ### Current Things
 
 1. [`pydentification`](https://github.com/cyber-physical-systems-group/pydentification) - Python library for system identification with neural networks
