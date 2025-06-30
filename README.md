@@ -2,18 +2,14 @@
 
 Hi, I'm Krzysztof, I like everything related to machine learning and neural networks, from research to deployment.
 
-### Me
-
 I currently work at [Opera Software](https://www.opera.com/) as AI Engineer, working on [Opera Neon](https://www.operaneon.com/) 
 project and at Wrocław University of Science and Technology as a part of cyber-physical-systems-group, where I work on
 research about modelling dynamical systems with neural networks and teaching machine learning courses.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-a-zajac/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Krzysztof-Zajac-3/research)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyber-physical-systems-group)
+[![PWr](https://img.shields.io/badge/PWR-AA0000?style=for-the-badge&logo=university&logoColor=white)](https://kam.pwr.edu.pl/mgr-inz-krzysztof-zajac/)
 
 ### Current Things
 
@@ -39,3 +35,17 @@ research about modelling dynamical systems with neural networks and teaching mac
 * [`AWD`](https://github.com/kzajac97/AWD) -  implementation of various generative models
 * [`flight_db`](https://github.com/kzajac97/flight_db) - learning project with distributed data-base system for managing flight connections
 * [`neural-styler`](https://github.com/kzajac97/neural-styler) - mobile application using AI-based neural style transfer algorithm to stylize image as famous paintings.
+
+[//]: # (Technology badges -> commented out for now)
+
+[//]: # ([![Python]&#40;https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&#41;]&#40;#&#41;)
+
+[//]: # ([![PyTorch]&#40;https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&#41;]&#40;#&#41;)
+
+[//]: # ([![Hugging Face]&#40;https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&#41;]&#40;#&#41;)
+
+[//]: # ([![AWS]&#40;https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&#41;]&#40;#&#41;)
+
+[//]: # ([![Terraform]&#40;https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&#41;]&#40;#&#41;)
+
+[//]: # ([![Scikit-learn]&#40;https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white&#41;]&#40;#&#41;)
